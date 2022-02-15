@@ -1,0 +1,12 @@
+#start,#stop,#reset{
+    padding: 10px 15px;
+}
+#timer{
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+
+/* 活性・非活性 */
+.inactive {
+  opacity: 0.6;
+}
